@@ -252,4 +252,5 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведении животного заполнены все поля.
 
-![Program](https://user-images.githubusercontent.com/99810114/221416842-471bd51e-a223-4baf-bcf5-11be77de2652.jpg)
+![Program](https://user-images.githubusercontent.com/99810114/221417421-93de1f4c-ad41-4f7e-a45d-edd5ec72f1d3.jpg)
+
