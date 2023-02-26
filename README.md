@@ -251,3 +251,5 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведении животного заполнены все поля.
+
+![Program](https://user-images.githubusercontent.com/99810114/221416842-471bd51e-a223-4baf-bcf5-11be77de2652.jpg)
